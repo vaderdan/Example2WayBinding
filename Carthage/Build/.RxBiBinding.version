@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.1.5",
+  "iOS" : [
+    {
+      "name" : "RxBiBinding",
+      "hash" : "bf8cf10db5ebe1f59b678acdb74f8d2fc5302e83887790ae11f69cc242c44308"
+    }
+  ]
+}
