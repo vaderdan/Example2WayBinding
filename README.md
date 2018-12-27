@@ -12,7 +12,7 @@ But how about passing events in both directions like so:
 TextField <------> Observable <------> TextField
 ```
 
-![Two way binding](https://cdn-images-1.medium.com/max/800/1*jUoFEq2ZB7u5YcpapuhT_g.gif)![Two way binding](https://cdn-images-1.medium.com/max/800/1*jUoFEq2ZB7u5YcpapuhT_g.gif)
+![Two way binding](https://cdn-images-1.medium.com/max/800/1*jUoFEq2ZB7u5YcpapuhT_g.gif)
 
 We can do this by bind two RxSwif observables to listen for each other's changes
 
